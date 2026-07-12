@@ -11,6 +11,7 @@ The goal of this project is to uncover how gaming hours, financial spending, and
 
 ### 1. 👤 Player Dashboard (Demographics & General Stats)
 ![Player Dashboard](Player%20Dashboard%20Power%20BI.jpg)
+
 This tab focuses on understanding the player base, their spending habits, and general gaming behavior.
 * **Key Metrics (KPIs):**
   * **Total Players:** 1K players in the dataset.
