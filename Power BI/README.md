@@ -28,7 +28,7 @@ This tab focuses on understanding the player base, their spending habits, and ge
 ---
 
 ### 2. 🧠 Addiction Dashboard (Mental Health & Behavioral Analysis)
-![Addiction Dashboard](Addiction%20Dashboard%20Power%20BI.jpg)
+![Addiction Dashboard](Addiction%20Dashboard%20Power%20BI.png)
 
 This tab deep dives into gaming addiction levels (Severe, High, Moderate, Low) and their direct impact on work productivity and psychological well-being.
 * **Key Metrics (KPIs):**
@@ -45,7 +45,7 @@ This tab deep dives into gaming addiction levels (Severe, High, Moderate, Low) a
 ---
 
 ### 3. 🩺 Health Dashboard (Physical Health & Sleep Quality)
-![Health Dashboard](Health%20Dashboard%20Power%20BI.jpg)
+![Health Dashboard](Health%20Dashboard%20Power%20BI.png)
 
 This tab analyzes how intensive gaming affects the physical body, sleep cycles, and general mood.
 * **Key Metrics (KPIs):**
