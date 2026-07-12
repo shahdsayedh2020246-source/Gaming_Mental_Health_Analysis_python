@@ -1,13 +1,5 @@
 # 🎮 Gaming & Mental Health Data Analysis
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-%20-orange?style=flat-square" alt="Pandas">
-  <img src="https://img.shields.io/badge/Data%20Engineering-%20-red?style=flat-square" alt="Data Engineering">
-  <img src="https://img.shields.io/badge/Database-%20-grey?style=flat-square" alt="Database">
-  <img src="https://img.shields.io/badge/Star%20Schema-%20-green?style=flat-square" alt="Star Schema">
-</p>
-
 ## 📌 Project Overview
 This end-to-end data analytics project explores the multi-dimensional impact of gaming habits on psychological well-being, physical health, academic performance, and social isolation. Deployed across a complete data lifecycle, the project processes data from a population of **1,000 players**, structures it using advanced relational modeling, and translates deep behavioral insights into interactive business intelligence dashboards.
 
